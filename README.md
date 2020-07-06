@@ -1,1 +1,1 @@
-# griddb
+# griddb-wiki
